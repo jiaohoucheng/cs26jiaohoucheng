@@ -1,1 +1,8 @@
-# cs26jiaohoucheng
+GitHub Pages Exercise 
+=========== 
+ 
+Involves 
+ * git 
+ * GitHub 
+ * SSH 
+
